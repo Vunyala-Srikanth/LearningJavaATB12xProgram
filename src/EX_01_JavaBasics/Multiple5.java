@@ -1,5 +1,7 @@
 package EX_01_JavaBasics;
 
+import com.sun.tools.javac.Main;
+
 public class Multiple5 {
     public static void main(String[] args) {
         int num=5;
@@ -14,6 +16,6 @@ public class Multiple5 {
         System.out.printf("%d X 8= %d\n",num,num*8);
         System.out.printf("%d X 9= %d\n",num,num*9);
         System.out.printf("%d X 10= %d\n",num,num*10);
-    }
+               }
 }
 
