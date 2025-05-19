@@ -10,7 +10,7 @@ public class Lab26_LocalVariables {
             System.out.println("The number is: " + number);
 
             // Calling a method that uses a local variable
-            printMessage("Hello, World!");
+            //printMessage("Hello, World!");
            // System.out.println(message);
         }
 
